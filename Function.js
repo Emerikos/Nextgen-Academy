@@ -13,3 +13,5 @@
 
 // greeting = greet("Chiemerie");
 // console.log (greeting);
+
+console.log ("trying out github")
